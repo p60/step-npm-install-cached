@@ -7,3 +7,4 @@ mkdir -p $repo_node_modules
 ln -s $repo_node_modules $WERCKER_ROOT/node_modules
 npm install $WERCKER_NPM_INSTALL_OPTIONS
 npm prune
+echo done

@@ -16,6 +16,10 @@ The MIT License (MIT)
 
 # Changelog
 
-## 0.1.1
+## 0.1.2
+
+- Prune after install
+
+## 0.1.0
 
 - Initial release
